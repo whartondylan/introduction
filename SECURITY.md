@@ -11,13 +11,13 @@ currently being supported with security updates.
 
 | 5.1.x   | ✅: |
 
-| 5.0.x   | ☑️:             |
+| 5.0.x   | ☑️:   |
 
 | 4.0.x   | ✅: |
 
 | < 4.0   | ☑️:   | 
 
-|✅: |
+          |✅: |
 
 | 5.0.x   | ☑️:   |
 
