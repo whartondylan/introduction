@@ -1,10 +1,18 @@
 # Introduction to GitHub
 
 <img src="https://octodex.github.com/images/Professortocat_v2.png" align="right" height="200px" />
-
+whartondylan-patch
+Hey @:octocat: and @whartondylan
+@:Mona:
+=======
 Hey @whartondylan!
+ whartondylan-patch-issues
 
-Mona here. I'm done preparing your exercise. Hope you enjoy! 💚
+###
+
+!♐
+
+@:Mona: here. I'm done preparing your exercise. Hope you enjoy! 💚
 
 Remember, it's self-paced so feel free to take a break! ☕️
 
