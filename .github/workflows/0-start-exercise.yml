@@ -1,6 +1,6 @@
 name: Step 0 # Start Exercise
 
-on:
+on: 
   push:
     branches:
       - main
