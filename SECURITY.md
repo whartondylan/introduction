@@ -8,7 +8,7 @@ currently being supported with security updates.
 | Version | Supported          |
 | ------- | ------------------ |
 
-###
+### checkmarks
 
   | 5.1.x   | ✅: |
 
