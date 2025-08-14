@@ -1,8 +1,4 @@
 {"github.codespaces.defaultExtensions": [
-    "GitHub.codespaces",
-    "GitHub.vscode-pull-request-github"
-]
-}
-{"githubPullRequests.terminalLinksHandler": ["ask"
+    "GitHub.codespaces"
 ]
 }
