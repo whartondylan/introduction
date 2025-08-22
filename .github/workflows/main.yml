@@ -1,6 +1,6 @@
 introduction
 
-name: introduction.yml
+name:
 on:
   issues:
     types: [opened]
