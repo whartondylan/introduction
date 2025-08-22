@@ -1,6 +1,6 @@
 Greeting 
 
-name: introduction greeting.yaml
+name: introduction.yml
 on:
   issues:
     types: [opened]
