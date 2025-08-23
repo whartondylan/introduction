@@ -1,6 +1,4 @@
-introduction
-
-name:
+introduction name:
 on:
   issues:
     types: [opened]
