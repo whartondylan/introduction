@@ -1,4 +1,4 @@
-|[ "name: 'Step 0 # Start Exercise'"]|
+|[ name: 'Initial Commit' # Step 0 Start Exercise'"]|
 
 on: 
   push:
